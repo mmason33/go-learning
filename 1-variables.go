@@ -20,7 +20,7 @@ var (
 	world string
 )
 
-// multiline inferred typing
+// singleline inferred typing
 var foo = "foo"
 var bar = "bar"
 
